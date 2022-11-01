@@ -1,0 +1,9 @@
+com\commerce\utilities\Reporting.class
+com\commerce\pageObject\AddCustomerPage.class
+com\commerce\testCases\TC_LoginTest_001.class
+com\commerce\utilities\XLUtils.class
+com\commerce\pageObject\LoginPage.class
+com\commerce\testCases\BaseClass.class
+com\commerce\testCases\TC_LoginDDT_002.class
+com\commerce\utilities\ReadConfig.class
+com\commerce\testCases\TC_AddCustomerTest_003.class

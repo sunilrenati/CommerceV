@@ -1,0 +1,63 @@
+2022-10-28 11:37:56,900 - CommerceV -INFO - clicked on login
+2022-10-28 11:41:47,278 - CommerceV -INFO - clicked on login
+2022-10-28 11:41:54,516 - CommerceV -INFO - login passed 
+2022-10-28 13:24:49,088 - CommerceV -INFO - clicked on login
+2022-10-28 13:24:57,034 - CommerceV -INFO - login passed 
+2022-10-28 13:25:27,684 - CommerceV -INFO - clicked on login
+2022-10-28 13:26:00,678 - CommerceV -INFO - login passed 
+2022-10-28 13:28:05,481 - CommerceV -INFO - clicked on login
+2022-10-28 13:28:18,359 - CommerceV -INFO - clicked on login
+2022-10-28 13:28:20,893 - CommerceV -INFO - login passed 
+2022-10-28 15:36:12,749 - CommerceV -INFO - clicked on login
+2022-10-28 15:38:04,467 - CommerceV -INFO - clicked on login
+2022-10-28 15:38:11,817 - CommerceV -INFO - login passed 
+2022-10-28 15:38:26,766 - CommerceV -INFO - clicked on login
+2022-10-28 15:38:34,284 - CommerceV -INFO - login passed 
+2022-10-28 15:38:51,726 - CommerceV -INFO - clicked on login
+2022-10-28 15:38:58,969 - CommerceV -INFO - login passed 
+2022-10-28 16:47:06,311 - CommerceV -INFO - clicked on login
+2022-10-28 16:47:14,445 - CommerceV -INFO - login passed 
+2022-10-28 16:48:35,682 - CommerceV -INFO - clicked on login
+2022-10-28 16:48:43,021 - CommerceV -INFO - login passed 
+2022-10-28 23:07:38,129 - CommerceV -INFO - clicked on login
+2022-10-28 23:07:46,002 - CommerceV -INFO - login passed 
+2022-10-28 23:13:11,940 - CommerceV -INFO - clicked on login
+2022-10-28 23:13:19,695 - CommerceV -INFO - login passed 
+2022-10-28 23:19:44,326 - CommerceV -INFO - clicked on login
+2022-10-28 23:19:51,576 - CommerceV -INFO - login passed 
+2022-10-28 23:27:10,173 - CommerceV -INFO - clicked on login
+2022-10-28 23:27:18,898 - CommerceV -INFO - login passed 
+2022-10-29 16:34:04,362 - CommerceV -INFO - clicked on login
+2022-10-29 16:34:09,885 - CommerceV -INFO - Login Failed
+2022-10-29 16:34:34,746 - CommerceV -INFO - clicked on login
+2022-10-29 16:34:39,972 - CommerceV -INFO - Login Failed
+2022-10-29 16:36:22,979 - CommerceV -INFO - clicked on login
+2022-10-29 16:37:47,892 - CommerceV -INFO - clicked on login
+2022-10-29 16:43:40,173 - CommerceV -INFO - clicked on login
+2022-10-29 16:43:49,803 - CommerceV -INFO - login passed 
+2022-10-29 16:47:56,629 - CommerceV -INFO - clicked on login
+2022-10-29 16:48:03,517 - CommerceV -INFO - login passed 
+2022-10-30 13:46:39,393 - CommerceV -INFO - clicked on login
+2022-10-30 13:46:44,338 - CommerceV -INFO - login passed 
+2022-10-31 11:29:06,192 - CommerceV -INFO - User name is provided
+2022-10-31 11:29:06,437 - CommerceV -INFO - password is provided
+2022-10-31 11:29:11,349 - CommerceV -INFO - providing customer details....
+2022-10-31 11:29:19,893 - CommerceV -INFO - validation started....
+2022-10-31 11:40:54,380 - CommerceV -INFO - User name is provided
+2022-10-31 11:40:54,622 - CommerceV -INFO - password is provided
+2022-10-31 11:41:00,188 - CommerceV -INFO - providing customer details....
+2022-10-31 11:41:06,835 - CommerceV -INFO - validation started....
+2022-10-31 11:42:58,644 - CommerceV -INFO - User name is provided
+2022-10-31 11:42:58,843 - CommerceV -INFO - password is provided
+2022-10-31 11:43:04,347 - CommerceV -INFO - providing customer details....
+2022-10-31 11:43:25,354 - CommerceV -INFO - validation started....
+2022-11-01 10:59:23,052 - CommerceV -INFO - clicked on login
+2022-11-01 10:59:27,261 - CommerceV -INFO - login passed 
+2022-11-01 11:04:22,210 - CommerceV -INFO - clicked on login
+2022-11-01 11:04:26,083 - CommerceV -INFO - login passed 
+2022-11-01 11:05:30,725 - CommerceV -INFO - clicked on login
+2022-11-01 11:05:34,512 - CommerceV -INFO - login passed 
+2022-11-01 11:38:22,645 - CommerceV -INFO - clicked on login
+2022-11-01 11:38:26,822 - CommerceV -INFO - login passed 
+2022-11-01 18:23:18,349 - CommerceV -INFO - clicked on login
+2022-11-01 18:23:23,183 - CommerceV -INFO - login passed 

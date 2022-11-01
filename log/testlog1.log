@@ -1,0 +1,63 @@
+2022-10-28 11:37:56,900 [main] INFO CommerceV - clicked on login
+2022-10-28 11:41:47,278 [main] INFO CommerceV - clicked on login
+2022-10-28 11:41:54,516 [main] INFO CommerceV - login passed 
+2022-10-28 13:24:49,088 [main] INFO CommerceV - clicked on login
+2022-10-28 13:24:57,034 [main] INFO CommerceV - login passed 
+2022-10-28 13:25:27,684 [main] INFO CommerceV - clicked on login
+2022-10-28 13:26:00,678 [main] INFO CommerceV - login passed 
+2022-10-28 13:28:05,481 [TestNG-tests-2] INFO CommerceV - clicked on login
+2022-10-28 13:28:18,359 [TestNG-tests-1] INFO CommerceV - clicked on login
+2022-10-28 13:28:20,893 [TestNG-tests-2] INFO CommerceV - login passed 
+2022-10-28 15:36:12,749 [TestNG-tests-2] INFO CommerceV - clicked on login
+2022-10-28 15:38:04,467 [main] INFO CommerceV - clicked on login
+2022-10-28 15:38:11,817 [main] INFO CommerceV - login passed 
+2022-10-28 15:38:26,766 [main] INFO CommerceV - clicked on login
+2022-10-28 15:38:34,284 [main] INFO CommerceV - login passed 
+2022-10-28 15:38:51,726 [main] INFO CommerceV - clicked on login
+2022-10-28 15:38:58,969 [main] INFO CommerceV - login passed 
+2022-10-28 16:47:06,311 [main] INFO CommerceV - clicked on login
+2022-10-28 16:47:14,445 [main] INFO CommerceV - login passed 
+2022-10-28 16:48:35,682 [main] INFO CommerceV - clicked on login
+2022-10-28 16:48:43,021 [main] INFO CommerceV - login passed 
+2022-10-28 23:07:38,129 [main] INFO CommerceV - clicked on login
+2022-10-28 23:07:46,002 [main] INFO CommerceV - login passed 
+2022-10-28 23:13:11,940 [main] INFO CommerceV - clicked on login
+2022-10-28 23:13:19,695 [main] INFO CommerceV - login passed 
+2022-10-28 23:19:44,326 [main] INFO CommerceV - clicked on login
+2022-10-28 23:19:51,576 [main] INFO CommerceV - login passed 
+2022-10-28 23:27:10,173 [main] INFO CommerceV - clicked on login
+2022-10-28 23:27:18,898 [main] INFO CommerceV - login passed 
+2022-10-29 16:34:04,362 [main] INFO CommerceV - clicked on login
+2022-10-29 16:34:09,885 [main] INFO CommerceV - Login Failed
+2022-10-29 16:34:34,746 [main] INFO CommerceV - clicked on login
+2022-10-29 16:34:39,972 [main] INFO CommerceV - Login Failed
+2022-10-29 16:36:22,979 [main] INFO CommerceV - clicked on login
+2022-10-29 16:37:47,892 [main] INFO CommerceV - clicked on login
+2022-10-29 16:43:40,173 [main] INFO CommerceV - clicked on login
+2022-10-29 16:43:49,803 [main] INFO CommerceV - login passed 
+2022-10-29 16:47:56,629 [main] INFO CommerceV - clicked on login
+2022-10-29 16:48:03,517 [main] INFO CommerceV - login passed 
+2022-10-30 13:46:39,393 [main] INFO CommerceV - clicked on login
+2022-10-30 13:46:44,338 [main] INFO CommerceV - login passed 
+2022-10-31 11:29:06,192 [main] INFO CommerceV - User name is provided
+2022-10-31 11:29:06,437 [main] INFO CommerceV - password is provided
+2022-10-31 11:29:11,349 [main] INFO CommerceV - providing customer details....
+2022-10-31 11:29:19,893 [main] INFO CommerceV - validation started....
+2022-10-31 11:40:54,380 [main] INFO CommerceV - User name is provided
+2022-10-31 11:40:54,622 [main] INFO CommerceV - password is provided
+2022-10-31 11:41:00,188 [main] INFO CommerceV - providing customer details....
+2022-10-31 11:41:06,835 [main] INFO CommerceV - validation started....
+2022-10-31 11:42:58,644 [main] INFO CommerceV - User name is provided
+2022-10-31 11:42:58,843 [main] INFO CommerceV - password is provided
+2022-10-31 11:43:04,347 [main] INFO CommerceV - providing customer details....
+2022-10-31 11:43:25,354 [main] INFO CommerceV - validation started....
+2022-11-01 10:59:23,052 [main] INFO CommerceV - clicked on login
+2022-11-01 10:59:27,261 [main] INFO CommerceV - login passed 
+2022-11-01 11:04:22,210 [main] INFO CommerceV - clicked on login
+2022-11-01 11:04:26,083 [main] INFO CommerceV - login passed 
+2022-11-01 11:05:30,725 [main] INFO CommerceV - clicked on login
+2022-11-01 11:05:34,512 [main] INFO CommerceV - login passed 
+2022-11-01 11:38:22,645 [main] INFO CommerceV - clicked on login
+2022-11-01 11:38:26,822 [main] INFO CommerceV - login passed 
+2022-11-01 18:23:18,349 [main] INFO CommerceV - clicked on login
+2022-11-01 18:23:23,183 [main] INFO CommerceV - login passed 
